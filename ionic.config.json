@@ -1,0 +1,8 @@
+{
+  "name": "ion4-demain",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

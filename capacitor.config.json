@@ -1,0 +1,6 @@
+{
+  "appId": "com.reno.demain",
+  "appName": "DEMAIN",
+  "bundledWebRuntime": true,
+  "webDir": "www"
+}
